@@ -4,10 +4,9 @@
     <TargetFrameworks>net40;net45;netstandard2.0</TargetFrameworks>
     <NeutralLanguage>en-US</NeutralLanguage>
     <Authors>Eric Domke and GAUSS-LVS mbH</Authors>
-    <Company />
-    <Product />
     <Description>RtfPipe is a .NET library for parsing Rich Text Format (RTF) streams and converting them to HTML</Description>
-    <PackageId>RtfPipe</PackageId>
+    <PackageId>RtfPipe.GAUSS</PackageId>
+    <Product>RtfPipe</Product>
     <PackageProjectUrl>https://github.com/erdomke/RtfPipe</PackageProjectUrl>
     <PackageTags>html,rtf,rich text</PackageTags>
     <RepositoryType>git</RepositoryType>
