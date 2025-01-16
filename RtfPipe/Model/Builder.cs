@@ -358,7 +358,7 @@ namespace RtfPipe.Model
                 foreach (var cell in cells)
                   cell.Styles.MergeRange(paddings);
               }
-              row.SetStyles(rowStyles);
+              //row.SetStyles(rowStyles);
               parent.Add(row);
             }
             var nextParagraph = new Element(ElementType.Paragraph);
